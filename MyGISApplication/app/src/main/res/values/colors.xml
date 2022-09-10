@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F4664</color>
+    <color name="colorPrimaryDark">#273A52</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#9F000F</color>
+    <color name="green">#437C17</color>
+    <color name="red1">#FB8A02</color>
+    <color name="red2">#ff002b</color>
+
+    <color name="green1">#A7CC14</color>
+    <color name="green2">#008000</color>
+
+
+
+
+    <!--<color name="colorPrimaryDark">#008080</color>
+    <color name="colorPrimary">#1e9e9e</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+
+    <color name="title_color">#646464</color>
+    <color name="edit_text_color">#545454</color>
+    <color name="textview_color">#727272</color>
+    <color name="btn_color">#13c4a5</color>
+    <color name="ash">#eeeeee</color>
+    <color name="blue">#0f90f2</color>
+    <!--<color name="red">#fb0000</color>-->
+    <color name="header_title_color">#7b7b7b</color>
+    <color name="grade">#A7A7A7</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="bg_gray">#EFF0ED</color>
+    <color name="button_green_ative">#38AA2D</color>
+    <color name="clr_white_F1">#f1f3f0</color>
+    <color name="clr_white">#FFFFFF</color>
+    <color name="border_gray">#c9c9c9</color>
+    <color name="text_gray">#666666</color>
+    <color name="error_msg">#990800</color>
+    <color name="apptheme_color">#33b5e5</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="list_selector1">#C1E9F7</color>
+
+    <!-- sharhah theme colors -->
+    <color name="sha_blue">#0299ce</color>
+    <color name="sha_blue_pressed">#017AA6</color>
+    <color name="sha_gray">#EEEEF0</color>
+    <color name="bg_green">#694220</color>
+
+    <!-- the common colors -->
+    <color name="common_button">#59585D</color>
+    <color name="common_button_selected">#808080</color>
+
+
+    <!-- splan colors -->
+    <color name="splan_green">#13C4A5</color>
+    <color name="splan_green_press">#11B295</color>
+    <color name="splan_red">#D9534F</color>
+    <color name="splan_red_press">#C74D49</color>
+    <color name="splan_blue">#5BC0DE</color>
+    <color name="splan_blue_press">#57B6D3</color>
+
+
+    <!-- the orange theme  colors -->
+    <color name="orange_prim">#273A52</color>
+    <color name="orange_sec">#2F4664</color>
+  <!--  <color name="orange_prim">#273A52</color>
+    <color name="orange_sec">#2F4664</color>-->
+
+    <color name="clr_white_gray">#FAFFE7B9</color>
+
+    <color name="colorDialogBg">#C5BD98</color>
+    <color name="colorDialogInputBg">#4F85C1</color>
+
+
+</resources>

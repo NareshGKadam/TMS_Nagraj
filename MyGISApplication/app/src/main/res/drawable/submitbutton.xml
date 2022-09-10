@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:angle="0"
+        android:startColor="@color/colorPrimaryDark"
+        android:endColor="@color/colorPrimary"
+        android:type="linear"
+        />
+
+    <corners android:radius="4dip" />
+
+   <!-- <solid android:drawable="@drawable/header_bg" />-->
+
+  <!--  <stroke
+        android:width="2dip"
+        android:drawable="@drawable/header_bg"  />-->
+
+</shape><!--
+         <color name="button_green">#62bc5a</color>
+    <color name="button_green_ative">#38aa2d</color>
+-->

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>pheonix1</name>
+<visibility>1</visibility>
+<Schema name="GenericCityObject" id="kml_schema_ft_GenericCityObject">
+<SimpleField type="xsd:string" name="gml_id">
+<displayName>gml_id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="gml_parent_id">
+<displayName>gml_parent_id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_target_uri">
+<displayName>citygml_target_uri</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_feature_role">
+<displayName>citygml_feature_role</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_feature_role_attr_name">
+<displayName>citygml_feature_role_attr_name</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_feature_role_attr_val">
+<displayName>citygml_feature_role_attr_val</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="gml_description">
+<displayName>gml_description</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="gml_name">
+<displayName>gml_name</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_creationDate">
+<displayName>citygml_creationDate</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_terminationDate">
+<displayName>citygml_terminationDate</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_class">
+<displayName>citygml_class</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Amount">
+<displayName>Amount</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="HEIGHT">
+<displayName>HEIGHT</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Id">
+<displayName>Id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="PayStatus">
+<displayName>PayStatus</displayName>
+</SimpleField>
+</Schema>
+<Schema name="CityModel" id="kml_schema_ft_CityModel">
+<SimpleField type="xsd:string" name="gml_id">
+<displayName>gml_id</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="citygml_target_uri">
+<displayName>citygml_target_uri</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="gml_description">
+<displayName>gml_description</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="gml_name">
+<displayName>gml_name</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_CityModel">
+<name>CityModel</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/1.0</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_CityModel">
+<SimpleData name="gml_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/1.0</SimpleData>
+</SchemaData>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Folder id="kml_ft_GenericCityObject">
+<name>GenericCityObject</name>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-b060eb8c-a32c-41ba-88b7-b30b7ab318d1</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-b060eb8c-a32c-41ba-88b7-b30b7ab318d1</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">8000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.36881989546141</longitude>
+<latitude>17.446506873661804</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-8e8ee044-8ad3-4de8-b2c4-34ef8ac012c1</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>7000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-8e8ee044-8ad3-4de8-b2c4-34ef8ac012c1</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">7000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.36921848314307</longitude>
+<latitude>17.44712193994712</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_1.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-965bc429-e421-4643-9118-793b76de14e4</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>5500</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-965bc429-e421-4643-9118-793b76de14e4</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">5500</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37022685695787</longitude>
+<latitude>17.447387008675978</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_2.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-b986e4a8-196f-4afa-b75c-1ef104a0b83d</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>6000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-b986e4a8-196f-4afa-b75c-1ef104a0b83d</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">6000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37085407772544</longitude>
+<latitude>17.447043751358372</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_3.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-aa0849fd-6963-48fa-91cf-eb0b354723fa</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>7000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-aa0849fd-6963-48fa-91cf-eb0b354723fa</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">7000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37015528638332</longitude>
+<latitude>17.44660278885072</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_4.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-b62e43ae-d8c1-450d-851d-6789d975919e</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>5000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-b62e43ae-d8c1-450d-851d-6789d975919e</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">5000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37063234802886</longitude>
+<latitude>17.44596153584217</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_5.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-efd18d26-c7fe-4e1d-a891-0494dc98465d</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>8000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-efd18d26-c7fe-4e1d-a891-0494dc98465d</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">8000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37185667295081</longitude>
+<latitude>17.44678808546666</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_6.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-5436580a-36ba-4b54-b551-290825e3b91c</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>5000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-5436580a-36ba-4b54-b551-290825e3b91c</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">5000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37117872391785</longitude>
+<latitude>17.44740689870675</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_7.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-3a849494-9601-48d5-84dd-02d867e5e438</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>7000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-3a849494-9601-48d5-84dd-02d867e5e438</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">7000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.3707784404124</longitude>
+<latitude>17.448122780102075</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_8.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-e31c5631-2d3f-4fc1-a895-16076cc9923b</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>5000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-e31c5631-2d3f-4fc1-a895-16076cc9923b</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">5000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37255918357113</longitude>
+<latitude>17.447994955862292</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_9.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-f2c3df12-a3c1-494c-aa05-a22c4aa7bd5a</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>2000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0005</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-f2c3df12-a3c1-494c-aa05-a22c4aa7bd5a</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">2000</SimpleData>
+<SimpleData name="HEIGHT">0.0005</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.37316589419885</longitude>
+<latitude>17.447477422017972</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_10.dae</href>
+</Link>
+</Model>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>gml_id</th>
+<td>fme-gen-d5be368d-2b5d-449f-920c-6a8a56ba17fb</td>
+</tr><tr bgcolor="">
+<th>gml_parent_id</th>
+<td>fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>citygml_target_uri</th>
+<td>http://www.opengis.net/citygml/generics/1.0</td>
+</tr><tr bgcolor="">
+<th>citygml_feature_role</th>
+<td>cityObjectMember</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Amount</th>
+<td>6000</td>
+</tr><tr bgcolor="">
+<th>HEIGHT</th>
+<td>0.0002</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>PayStatus</th>
+<td>Not Paid</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_GenericCityObject">
+<SimpleData name="gml_id">fme-gen-d5be368d-2b5d-449f-920c-6a8a56ba17fb</SimpleData>
+<SimpleData name="gml_parent_id">fme-gen-9da5d044-d509-4d73-82c3-9a6f9e769bcd</SimpleData>
+<SimpleData name="citygml_target_uri">http://www.opengis.net/citygml/generics/1.0</SimpleData>
+<SimpleData name="citygml_feature_role">cityObjectMember</SimpleData>
+<SimpleData name="Amount">6000</SimpleData>
+<SimpleData name="HEIGHT">0.0002</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="PayStatus">Not Paid</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Model>
+<Location>
+<longitude>78.3726300364598</longitude>
+<latitude>17.447200868242902</latitude>
+<altitude>0</altitude>
+</Location>
+<Link>
+<href>models/model_11.dae</href>
+</Link>
+</Model>
+</Placemark>
+</Folder>
+</Document></kml>

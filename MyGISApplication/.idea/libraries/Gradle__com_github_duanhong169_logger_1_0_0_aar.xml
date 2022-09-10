@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.duanhong169:logger:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0de5de3f9e34420edc9cd7895f85384f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0de5de3f9e34420edc9cd7895f85384f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8f40c285d74d7d1947a45693d4edf17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8f40c285d74d7d1947a45693d4edf17/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8f40c285d74d7d1947a45693d4edf17/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.duanhong169/logger/1.0.0/a2e66b645793e470b2f14c5815b0898beab0ea98/logger-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

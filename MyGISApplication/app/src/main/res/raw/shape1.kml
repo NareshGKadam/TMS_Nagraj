@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="New_Shapefile" id="New_Shapefile">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="PropTax" type="string"></SimpleField>
+	<SimpleField name="HEIGHT" type="string"></SimpleField>
+	<SimpleField name="Amount" type="string"></SimpleField>
+	<SimpleField name="FID" type="string"></SimpleField>
+	<SimpleField name="PayStatus" type="string"></SimpleField>
+	<SimpleField name="Id" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>New_Shapefile</name>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">8000</SimpleData>
+		<SimpleData name="FID">0</SimpleData>
+		<SimpleData name="PayStatus">Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3687899580232,17.4461713906644 78.3691600877796,17.4465295023039 78.3691233373073,17.4465645621468 78.3691469626109,17.4465871006138 78.3688634589677,17.4468425363775 78.3684802040426,17.4464493654946 78.3687899580232,17.4461713906644</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">7000</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.369337569039,17.4467170446152 78.3696368228846,17.4470150527591 78.3690304400922,17.4475259227295 78.3687994371237,17.4472780007168 78.3691170662054,17.4470125484909 78.3690593154633,17.4469524460467 78.369337569039,17.4467170446152</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">5500</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="PayStatus">Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3702833106048,17.4470015573569 78.370556314113,17.4474773677044 78.370635065125,17.4475449827583 78.3703909369878,17.4477753746054 78.3702098096602,17.4475925637072 78.3701048083109,17.4476000764874 78.369965681523,17.4474648463954 78.369818679634,17.4472269413605 78.3699053057472,17.4471618304548 78.3702833106048,17.4470015573569</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">6000</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3704887921373,17.4469767931179 78.3707197951058,17.4468140155864 78.3708379216238,17.4467539130766 78.3709166726358,17.4467338789022 78.3709770484116,17.446738887446 78.3710269240525,17.4467589216198 78.3712211765488,17.4469843059234 78.3707014198697,17.4473524330201 78.3704887921373,17.4469767931179</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">7000</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="PayStatus">Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3699597009927,17.4468333548799 78.3698415744747,17.4465854319253 78.3703770813563,17.4463725685136 78.3704689575369,17.446622996031 78.3699597009927,17.4468333548799</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">5000</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3707162952343,17.4454569739426 78.371023424181,17.4463159432078 78.3705561681766,17.4464661998062 78.3702411641285,17.445614744111 78.3707162952343,17.4454569739426</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">8000</SimpleData>
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="PayStatus">Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.371943352438,17.4464913817836 78.3721428550018,17.4469471593117 78.3717779753129,17.4470848940548 78.3715705976479,17.4466216040507 78.371943352438,17.4464913817836</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">5000</SimpleData>
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.370831067557,17.4474194914795 78.3712799483254,17.4471064583966 78.3715267014963,17.4473719104856 78.3712904484603,17.4475997982915 78.3710883208629,17.4477074814412 78.370831067557,17.4474194914795</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">7000</SimpleData>
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3712827190352,17.4478031998812 78.3714192207894,17.4479434382327 78.370665836108,17.4486220901603 78.3701408293613,17.4480811722232 78.3706579610067,17.4476203890107 78.3710149655945,17.4479835063135 78.3710674662692,17.4479509509985 78.3710832164716,17.4479684807842 78.3712827190352,17.4478031998812</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">5000</SimpleData>
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3728018844052,17.4475044974113 78.3730118871039,17.4480854851178 78.372675882786,17.4484486014941 78.3725630063355,17.4484886694637 78.3721902515454,17.4479402383647 78.3721088754997,17.4477373935678 78.3728018844052,17.4475044974113</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">2000</SimpleData>
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3733566964426,17.4472436483153 78.3733848871814,17.447359829406 78.3731807862322,17.4474060866716 78.3732484440054,17.4476739482807 78.3730871929793,17.4477126752278 78.373039832538,17.4475739036294 78.3730184075766,17.4475792823754 78.3729507498033,17.4473264811376 78.3730116417992,17.447316799381 78.3730116417992,17.4473060418732 78.3730759166838,17.4472920571121 78.373078171943,17.4473124963781 78.3733566964426,17.4472436483153</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#New_Shapefile">
+		<SimpleData name="altitudeMode">absolute</SimpleData>
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">1</SimpleData>
+		<SimpleData name="PropTax"></SimpleData>
+		<SimpleData name="HEIGHT">0.01</SimpleData>
+		<SimpleData name="Amount">6000</SimpleData>
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="PayStatus">Not Paid</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+		<SimpleData name="Field_1"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>78.3727495418613,17.447288304943 78.3725963631294,17.4473376736753 78.3725104588406,17.4471184764013 78.3726719175039,17.4470641707297 78.3727495418613,17.447288304943</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

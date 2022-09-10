@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <corners android:radius="4dip" />
+
+    <solid android:color="@color/orange_prim"
+         />
+
+    <stroke
+        android:width="2dip"
+        android:color="@color/orange_prim" />
+
+</shape>
+
+<!--     <color name="button_green">#62bc5a</color>#666666
+    <color name="button_green_ative">#38aa2d</color> -->

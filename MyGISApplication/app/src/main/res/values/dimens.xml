@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">30dp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_xsmall">14sp</dimen>
+    <dimen name="num2">2dp</dimen>
+    <dimen name="five">5dp</dimen>
+    <dimen name="num20">20dp</dimen>
+    <dimen name="num40">40dp</dimen>
+    <dimen name="num50">50dp</dimen>
+	<dimen name="num60">60dp</dimen>
+    <dimen name="num80">80dp</dimen>
+	<dimen name="num100">100dp</dimen>
+    <dimen name="num120">120dp</dimen>
+    <dimen name="num150">150dp</dimen>
+
+    <!--space units-->
+    <dimen name="space_1x">2dp</dimen>
+    <dimen name="space_2x">4dp</dimen>
+    <dimen name="space_3x">8dp</dimen>
+    <dimen name="space_4x">16dp</dimen>
+    <dimen name="dialog_text">14sp</dimen>
+    <dimen name="dialog_filter_option_text">14sp</dimen>
+
+</resources>

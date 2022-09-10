@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:includeFontPadding="false"
+    android:padding="@dimen/space_3x"
+    android:text="@string/app_name"
+    android:textColor="@color/black"
+    android:textSize="14sp"
+    android:layout_marginStart="@dimen/space_1x"
+    android:id="@+id/lbl_spinner_item"/>
