@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WTMS</string> <!--WTMS-->
+    <string name="app_name">CWTMS</string> <!--WTMS-->
     <string name="Rs">\u20B9</string>
     <string name="filters">Filters</string>
     <string name="from">From</string>
